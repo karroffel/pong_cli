@@ -1,5 +1,5 @@
-# rust_pong
-rust_pong is a console game written in Rust.
+# pong_cli
+pong_cli is a console game written in Rust.
 
 ## Dependencies
 
@@ -7,7 +7,7 @@ It depends on libncursesw5, so make sure it is installed on your system.
 
 ## Installation
 
-To install rust_pong simply run
+To install pong_cli simply run
 
     cargo build --release
     

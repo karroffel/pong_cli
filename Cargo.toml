@@ -1,0 +1,8 @@
+[package]
+name = "pong"
+version = "0.1.0"
+authors = ["kietoutunut"]
+
+[dependencies]
+ncurses = "5.2.0"
+rand = "*"
